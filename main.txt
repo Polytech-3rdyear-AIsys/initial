@@ -1,0 +1,22 @@
+=======================================
+|	    MAIN SPECIFICATIONS	      |	
+=======================================
+
+1) each leader of group need acept github invitation
+   for collaborative work
+
+2) need copy dataset + jupyter notebook of ML Ops in some
+   another folder in local machine without white spaces 
+   and run the next commands using git cmd
+
+3) list of git commands:
+
+$ echo "# title of the project" >> README.md 
+$ git init
+$ git remote add origin <https://github.com/HoltechHard/SkinCancerProj_v2.git>
+			<-- here need put the link of github repo -->
+$ git add README.md 
+$ git commit -m "project description"
+$ git pull origin master
+$ git push origin master
+
