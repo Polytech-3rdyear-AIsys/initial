@@ -6,11 +6,11 @@
      * Leader Authors:  
        - Shmeleva Mariia       
     * Instructions:  
-       - Create a new repository and upload final pdf version of paper with last corrections  
+       - Paper ready for submission (100% done)  
          
 2) Airline Passenger Satisfaction Prediction: A Machine Learning approach to service quality assessment  
      * Leader Authors:  
        - Mikhail Bochanov  
      * Instructions:  
-       - Create new repository and upload final pdf version of paper with last corrections
+       - Upload final pdf version of paper with last corrections modifying file **Airline_passenger_satisfaction.pdf**  
       
